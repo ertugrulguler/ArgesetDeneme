@@ -1,0 +1,11 @@
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Business\bin\Debug\Argeset.Business.dll
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Business\bin\Debug\Argeset.Business.pdb
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Business\bin\Debug\Argeset.Entity.dll
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Business\bin\Debug\Argeset.Entity.pdb
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Business\obj\Debug\Argeset.Business.csprojAssemblyReference.cache
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Business\obj\Debug\Argeset.Business.csproj.CoreCompileInputs.cache
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Business\obj\Debug\Argeset.Business.csproj.CopyComplete
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Business\obj\Debug\Argeset.Business.dll
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Business\obj\Debug\Argeset.Business.pdb

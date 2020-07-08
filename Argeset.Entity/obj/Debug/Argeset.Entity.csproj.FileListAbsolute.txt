@@ -1,0 +1,6 @@
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Entity\bin\Debug\Argeset.Entity.dll
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Entity\bin\Debug\Argeset.Entity.pdb
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Entity\obj\Debug\Argeset.Entity.csprojAssemblyReference.cache
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Entity\obj\Debug\Argeset.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Entity\obj\Debug\Argeset.Entity.dll
+C:\Users\Aykut Bastug\Desktop\ArgesetApi\Argeset.Entity\obj\Debug\Argeset.Entity.pdb
